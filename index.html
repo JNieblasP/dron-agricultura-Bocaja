@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>IX DRON — Bocaja 2025 </title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="logo">IX DRON</div>
+    <div class="controls">
+      <select id="projectSelect"></select>
+      <select id="captureSelect"></select>
+      <div class="metrics">
+        <div>NDVI: <span id="ndviValue">--</span></div>
+        <div>Cobertura: <span id="coverValue">--</span></div>
+      </div>
+    </div>
+  </header>
+
+  <section id="timeline" class="timeline"></section>
+
+  <nav class="tabs">
+    <button class="tab active" data-tab="tab-beforeafter">Before / After</button>
+    <button class="tab" data-tab="tab-video">Video</button>
+    <button class="tab" data-tab="tab-gallery">Galería</button>
+    <button class="tab" data-tab="tab-about">Acerca</button>
+  </nav>
+
+  <main class="content">
+    <!-- BEFORE / AFTER -->
+    <section id="tab-beforeafter" class="tab-panel active">
+      <div class="ba-wrapper">
+        <img id="imgBefore" class="ba-img ba-before" alt="Antes (si disponible)">
+        <img id="imgAfter"  class="ba-img ba-after"  alt="Después (si disponible)">
+        <input id="baRange" type="range" min="0" max="100" value="50" class="ba-range" />
+      </div>
+      <div id="baHints" class="hints"></div>
+    </section>
+
+    <!-- VIDEO -->
+    <section id="tab-video" class="tab-panel">
+      <h3>Video</h3>
+      <video id="videoPlayer" controls class="video-player"></video>
+      <div id="videoHint" class="hints"></div>
+    </section>
+
+    <!-- GALLERY -->
+    <section id="tab-gallery" class="tab-panel">
+      <h3>Galería</h3>
+      <div id="galleryGrid" class="gallery-grid"></div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="tab-about" class="tab-panel">
+      <h3>Acerca del proyecto</h3>
+      <div id="aboutText"></div>
+    </section>
+  </main>
+
+  <!-- Modal para imagen grande -->
+  <div id="modal" class="modal hidden">
+    <button id="modalClose" class="modal-close">✕</button>
+    <img id="modalImg" alt="Imagen grande" class="modal-img">
+  </div>
+
+  <!-- Mensajes de debug al usuario (útil si hay 404) -->
+  <aside id="messages" class="messages"></aside>
+
+  <script src="script.js"></script>
+</body>
+</html>

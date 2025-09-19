@@ -1,0 +1,204 @@
+{
+  "projects": {
+    "Bocaja Este": {
+      "about": "Bocaja Parcela Este: Monitoreo agrícola de Alfalfa",
+      "captures": [
+        {
+          "fecha": "2025-02-12",
+          "metrics": { "ndvi": "-0.21", "cobertura": "0" },
+          "before": "data/proyecto1/captura01/HERMI_ALFALFA_EAST_ORTO_2025_02_12.jpg",
+          "after": "data/proyecto1/captura01/HERMI_ALFALFA_EAST_ORTO_2025_02_12.jpg",
+          "video": "data/proyecto1/captura01/HERMI_ALFALFA_EAST_2025_02_12.mp4",
+          "galeria": [
+            "data/proyecto1/captura01/DJI_0251.jpg",
+            "data/proyecto1/captura01/DJI_0454.jpg",
+            "data/proyecto1/captura01/DJI_0451.jpg",
+            "data/proyecto1/captura01/DJI_0455.jpg",
+            "data/proyecto1/captura01/DJI_0645.jpg",
+            "data/proyecto1/captura01/DJI_0463.jpg",
+            "data/proyecto1/captura01/DJI_0468.jpg",
+            "data/proyecto1/captura01/DJI_0471.jpg"
+          ]
+        },
+        {
+          "fecha": "2025-02-19",
+          "metrics": { "ndvi": "0.09", "cobertura": "9" },
+          "before": "data/proyecto1/captura01/HERMI_ALFALFA_EAST_ORTO_2025_02_12.jpg",
+          "after":"data/proyecto1/captura02/HERMI_ALFALFA_EAST_ORTO_2025_02_19.jpg",
+          "video": "data/proyecto1/captura02/HERMI_ALFALFA_EAST_2025_02_19.mp4",
+          "galeria": [            
+            "data/proyecto1/captura02/DJI_0850.jpg",
+            "data/proyecto1/captura02/DJI_0856.jpg",
+            "data/proyecto1/captura02/DJI_0859.jpg",
+            "data/proyecto1/captura02/DJI_0860.jpg",
+            "data/proyecto1/captura02/DJI_0861.jpg",
+            "data/proyecto1/captura02/DJI_0870.jpg",
+            "data/proyecto1/captura02/DJI_0871.jpg",
+            "data/proyecto1/captura02/DJI_0887.jpg"
+
+          ]
+        },
+        {
+          "fecha": "2025-03-07",
+          "metrics": { "ndvi": "0.23", "cobertura": "23" },
+          "before": "data/proyecto1/captura02/HERMI_ALFALFA_EAST_ORTO_2025_02_19.jpg",
+          "after": "data/proyecto1/captura03/HERMI_ALFALFA_EAST_ORTO_2025_03_07.jpg",
+          "video": "data/proyecto1/captura03/HERMI_ALFALFA_EAST_2025_03_07.mp4",
+          "galeria": [
+            "data/proyecto1/captura03/DJI_0384.jpg",
+            "data/proyecto1/captura03/DJI_0581.jpg",
+            "data/proyecto1/captura03/DJI_0583.jpg",
+            "data/proyecto1/captura03/DJI_0585.jpg",
+            "data/proyecto1/captura03/DJI_0586.jpg",
+            "data/proyecto1/captura03/DJI_0587.jpg",
+            "data/proyecto1/captura03/DJI_0589.jpg",
+            "data/proyecto1/captura03/DJI_0600.jpg",
+            "data/proyecto1/captura03/DJI_0596.jpg"
+          ]
+        },
+        {
+          "fecha": "2025-03-14",
+          "metrics": { "ndvi": "0.39", "cobertura": "39" },
+          "before": "data/proyecto1/captura03/HERMI_ALFALFA_EAST_ORTO_2025_03_07.jpg",
+          "after": "data/proyecto1/captura04/HERMI_ALFALFA_EAST_ORTO_2025_03_14.jpg",
+          "video": "data/proyecto1/captura04/HERMI_ALFALFA_EAST_2025_03_14.mp4",
+          "galeria": [
+            "data/proyecto1/captura04/DJI_0610.jpg",
+            "data/proyecto1/captura04/DJI_0612.jpg",
+            "data/proyecto1/captura04/DJI_0805.jpg",
+            "data/proyecto1/captura04/DJI_0808.jpg",
+            "data/proyecto1/captura04/DJI_0809.jpg",
+            "data/proyecto1/captura04/DJI_0810.jpg",
+            "data/proyecto1/captura04/DJI_0811.jpg",
+            "data/proyecto1/captura04/DJI_0812.jpg"
+          ]
+        },
+        {
+          "fecha": "2025-03-21",
+          "metrics": { "ndvi": "0.46", "cobertura": "48" },
+          "before": "data/proyecto1/captura04/HERMI_ALFALFA_EAST_ORTO_2025_03_14.jpg",
+          "after": "data/proyecto1/captura05/HERMI_ALFALFA_EAST_ORTO_2025_03_21.jpg",
+          "video": "data/proyecto1/captura05/HERMI_ALFALFA_EAST_2025_03_21.mp4",
+          "galeria": [
+            "data/proyecto1/captura05/DJI_0025.jpg",
+            "data/proyecto1/captura05/DJI_0028.jpg",
+            "data/proyecto1/captura05/DJI_0030.jpg",
+            "data/proyecto1/captura05/DJI_0033.jpg",
+            "data/proyecto1/captura05/DJI_0039.jpg",
+            "data/proyecto1/captura05/DJI_0045.jpg",
+            "data/proyecto1/captura05/DJI_0048.jpg",
+            "data/proyecto1/captura05/DJI_0053.jpg",
+            "data/proyecto1/captura05/DJI_0060.jpg",
+            "data/proyecto1/captura05/DJI_0052.jpg"
+          ]
+        },
+        {
+          "fecha": "2025-03-28",
+          "metrics": { "ndvi": "0.58", "cobertura": "58" },
+          "before": "data/proyecto1/captura05/HERMI_ALFALFA_EAST_ORTO_2025_03_21.jpg",
+          "after": "data/proyecto1/captura06/HERMI_ALFALFA_EAST_ORTO_2025_03_28.jpg",
+          "video": "data/proyecto1/captura06/HERMI_ALFALFA_EAST_2025_03_28.mp4",
+          "galeria": [
+            "data/proyecto1/captura06/DJI_0063.jpg",
+            "data/proyecto1/captura06/DJI_0065.jpg",
+            "data/proyecto1/captura06/DJI_0248.jpg",
+            "data/proyecto1/captura06/DJI_0250.jpg",
+            "data/proyecto1/captura06/DJI_0251.jpg",
+            "data/proyecto1/captura06/DJI_0254.jpg",
+            "data/proyecto1/captura06/DJI_0255.jpg",
+            "data/proyecto1/captura06/DJI_0257.jpg",
+            "data/proyecto1/captura06/DJI_0269.jpg",
+            "data/proyecto1/captura06/DJI_0275.jpg",
+            "data/proyecto1/captura06/DJI_0277.jpg",
+            "data/proyecto1/captura06/DJI_0279.jpg",
+            "data/proyecto1/captura06/DJI_0281.jpg"
+          ]
+        },
+        {
+          "fecha": "2025-04-11",
+          "metrics": { "ndvi": "0.63", "cobertura": "63" },
+          "before": "data/proyecto1/captura06/HERMI_ALFALFA_EAST_ORTO_2025_03_28.jpg",
+          "after": "data/proyecto1/captura07/HERMI_ALFALFA_EAST_ORTO_2025_04_11.jpg",
+          "video": "data/proyecto1/captura07/HERMI_ALFALFA_EAST_2025_04_11.mp4",
+          "galeria": [
+            "data/proyecto1/captura07/DJI_0477.jpg",
+            "data/proyecto1/captura07/DJI_0482.jpg",
+            "data/proyecto1/captura07/DJI_0483.jpg",
+            "data/proyecto1/captura07/DJI_0492.jpg",
+            "data/proyecto1/captura07/DJI_0494.jpg",
+            "data/proyecto1/captura07/DJI_0516.jpg"
+          ]
+        },
+        {
+          "fecha": "2025-04-24",
+          "metrics": { "ndvi": "0.0", "cobertura": "0" },
+          "before": "data/proyecto1/captura07/HERMI_ALFALFA_EAST_ORTO_2025_04_11.jpg",
+          "after": "data/proyecto1/captura08/HERMI_ALFALFA_EAST_ORTO_2025_04_24.jpg",
+          "video": "data/proyecto1/captura08/HERMI_ALFALFA_EAST_2025_04_24.mp4",
+          "galeria": [
+            "data/proyecto1/captura08/DJI_0518.jpg",
+            "data/proyecto1/captura08/DJI_0715.jpg",
+            "data/proyecto1/captura08/DJI_0716.jpg",
+            "data/proyecto1/captura08/DJI_0721.jpg",
+            "data/proyecto1/captura08/DJI_0722.jpg",
+            "data/proyecto1/captura08/DJI_0725.jpg",
+            "data/proyecto1/captura08/DJI_0723.jpg"
+          ]
+        },
+        {
+          "fecha": "2025-06-26",
+          "metrics": { "ndvi": "0.34", "cobertura": "34" },
+          "before": "data/proyecto1/captura09/HERMI_ALFALFA_EAST_ORTO_2025_06_26.jpg",
+          "after": "data/proyecto1/captura09/HERMI_ALFALFA_EAST_ORTO_2025_06_26.jpg",
+          "video": "data/proyecto1/captura09/HERMI_ALFALFA_EAST_2025_06_26.mp4",
+          "galeria": [
+            "data/proyecto1/captura09/DJI_0155.jpg",
+            "data/proyecto1/captura09/DJI_0157.jpg",
+            "data/proyecto1/captura09/DJI_0741.jpg",
+            "data/proyecto1/captura09/DJI_0913.jpg",
+            "data/proyecto1/captura09/DJI_0916.jpg",
+            "data/proyecto1/captura09/DJI_0974.jpg",
+            "data/proyecto1/captura09/DJI_0982.jpg",
+            "data/proyecto1/captura09/DJI_0975.jpg"
+          ]
+        },
+        {
+          "fecha": "2025-08-15",
+          "metrics": { "ndvi": "0.21", "cobertura": "21" },
+          "before": "data/proyecto1/captura09/HERMI_ALFALFA_EAST_ORTO_2025_06_26.jpg",
+          "after": "data/proyecto1/captura10/HERMI_ALFALFA_EAST_ORTO_2025_08_15.jpg",
+          "video": "data/proyecto1/captura09/HERMI_ALFALFA_EAST_2025_06_26.mp4",
+          "galeria": [
+            "data/proyecto1/captura10/DJI_0193.jpg",
+            "data/proyecto1/captura10/DJI_0203.jpg",
+            "data/proyecto1/captura10/DJI_0427.jpg",
+            "data/proyecto1/captura10/DJI_0428.jpg",
+            "data/proyecto1/captura10/DJI_0590.jpg"
+          ]
+        }
+        
+        
+      ]
+
+
+
+
+    },
+    "proyecto2": {
+      "about": "Supervisión de obra urbana (casas en construcción).",
+      "captures": [
+        {
+          "fecha": "2025-03-01",
+          "metrics": { "ndvi": "0.30", "cobertura": "15" },
+          "before": "data/proyecto2/captura01/orto_before.jpg",
+          "after": "data/proyecto2/captura01/orto_after.jpg",
+          "video": "data/proyecto2/captura01/video.mp4",
+          "galeria": [
+            "data/proyecto2/captura01/img1.jpg",
+            "data/proyecto2/captura01/img2.jpg"
+          ]
+        }
+      ]
+    }
+  }
+}
